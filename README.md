@@ -1,4 +1,4 @@
-En el archivo HTML, creé una estructura básica con una imagen dentro de un contenedor <div> y enlscé los archivos CSS y JavaScript.
+En el archivo HTML, creé una estructura básica con una imagen dentro de un contenedor y enlacé los archivos CSS y JavaScript.
 En el archivo CSS, referencio algunos estilos básicos a la imagen y al contenedor.
 En el archivo JavaScript, obtengo la referencia a la imagen usando document.getElementById y luego agrego un evento de clic (click) a la imagen.
 La función toggleBorder es llamada cada vez que se hace clic en la imagen. 
